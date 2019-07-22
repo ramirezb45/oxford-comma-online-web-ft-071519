@@ -1,4 +1,4 @@
 def oxford_comma
-  "fiddleheads, okra, and kohlrabi".split
-
+ "fiddleheads,okra,kohlrabi".split(",")
+  
 end
